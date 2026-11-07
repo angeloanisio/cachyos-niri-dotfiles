@@ -1,0 +1,5 @@
+bibata-cursor-theme
+cbonsai-git
+opera-gx
+pipes.sh
+umbriel-git
