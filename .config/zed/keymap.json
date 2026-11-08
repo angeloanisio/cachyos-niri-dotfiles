@@ -1,0 +1,8 @@
+[
+  {
+    "bindings": {
+      "ctrl-q": null,
+      "ctrl-'": "terminal_panel::ToggleFocus"
+    }
+  }
+]
